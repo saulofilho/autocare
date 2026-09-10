@@ -1,0 +1,6 @@
+{
+  "name": "AutoCare 3D - Gestão Veicular & Mecânica",
+  "description": "Aplicativo completo de gestão veicular com visualização 3D externa e mecânica interna, controle de abastecimento e consumo, dicas de manutenção, relatórios mensais de custos, lembretes por quilometragem e marketplace de oficinas com agendamento e avaliações.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
